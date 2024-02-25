@@ -12,6 +12,10 @@ html, body {
     background-color: black;
 }
 
+body {
+    background: url('../imagens/fundo-madeira.jpg');
+}
+
 main {
     height: 100vh;
     position: relative;
