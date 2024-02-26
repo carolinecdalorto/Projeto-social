@@ -24,7 +24,6 @@ main {
 }
 
 section#telefone {
-    position: absolute;
     top: 30%;
     left: 30%;
     transform: translate(-30%, -30%);
