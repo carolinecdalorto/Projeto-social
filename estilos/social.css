@@ -16,7 +16,7 @@ a:hover {
 }
 
 a {
-    background-attachment: fixed;
+    display: block;
     background-color: darkred;
     color: white;
     padding: 20px;
