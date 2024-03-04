@@ -15,6 +15,10 @@ a:hover {
     background-color: red;
 }
 
+head > a {
+    position: sticky;
+}
+
 a {
     display: block;
     background-color: darkred;
