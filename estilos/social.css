@@ -24,6 +24,6 @@ a {
     font-weight: bolder;
     text-decoration: none;
     position: fixed;
-    width: fit-content;
+    width: 100px;
     display: block;
 }
