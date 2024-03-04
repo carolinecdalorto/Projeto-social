@@ -13,6 +13,8 @@ img {
 
 a:hover {
     background-color: red;
+    background-attachment: fixed;
+
 }
 
 a {
